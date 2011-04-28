@@ -1,0 +1,8 @@
+connect localhost:8085
+login jorge
+join group
+send group 1 "test message to group"
+leave group
+logout
+disconnect
+exit

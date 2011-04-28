@@ -1,0 +1,5 @@
+>  connect OK
+writer set up
+>  >  >  msg: null group 1302372974 1 [test message to group]
+>  sending leave_group: group
+>  >  >  
